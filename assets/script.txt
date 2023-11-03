@@ -1,0 +1,32 @@
+SCRIPT
+Hey there Michael here and in this video I'm going to 
+show my IAT265 program 
+The program title is broke college student lunch and
+it is a simulation on how to cook instant noodles
+
+Tech 6) for technical requirement 6 this is my intro screen with short instructions
+The objects are controlled by the mouse clicking and dragging
+
+Tech 5) for technical requirement 5 I have noises to most of my interactions
+Tech 2) show perlin noise, fractals for my technical requirement 2
+Tech 3) kitchen background, for technical 3 but its not animated
+Tech 4) show button decorator pattern
+
+1) I have 4 packages assets which load my assets, decorator used for decorators
+kitchen which holds my kitchen objects and main for starting and controlling the app
+2) I have a abstract superclass for the kitchen objects and abstract + interface for my decorator
+Code 4) I dont have any objects that use a factory pattern because all my objects are loaded into the panel class
+code 5) Kitchen object, for the technical requirement I used an abstract super class with pull up of methods, I didn't include setImg because i loaded the image in the panel
+code 6) no code errors except for minim so I did not include any try catch statements
+
+
+Walkthrough
+I just follow the instructions at the bottom
+my ECOs are the complex shapes
+decorator pattern features
+all images are handmade (show asset folder)
+I used inkscape to create vectors and sketches
+
+and for the sound i got it from online sources 
+here is my reference list
+(drag notepad)
